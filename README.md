@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jakubs-remitly
+- 👋 Hi, I’m Kuba
 - 👀 I’m interested in word of JavaScript
 
 <!---
